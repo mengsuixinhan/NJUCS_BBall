@@ -24,4 +24,4 @@ team uniform generator
 吴海淘，  
 黄磊，  
 胡毅奇，  
-崔渠，  
+崔渠，CQ，16，xxl  
